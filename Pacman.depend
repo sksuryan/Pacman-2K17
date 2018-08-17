@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1508559823 source:h:\pacman\main.cpp
+	<iostream>
+	<graphics.h>
+	<start_menu.h>
+	<start_game.h>
+	<process.h>
+	<fstream>
+	<properties.h>
+
+1510461698 h:\pacman\include\start_menu.h
+	<string.h>
+
+1509096706 h:\pacman\include\start_game.h
+	<endprint.h>
+	<coins_sc.h>
+	<daemons.h>
+	<properties.h>
+	<controls.h>
+
+1507898366 source:h:\pacman\src\coins_sc.cpp
+	"coins_sc.h"
+	<time.h>
+	<stdlib.h>
+	<graphics.h>
+
+1507980989 h:\pacman\include\coins_sc.h
+
+1509190528 source:h:\pacman\src\controls.cpp
+	"controls.h"
+	<windows.h>
+	<graphics.h>
+
+1509190513 h:\pacman\include\controls.h
+	<start_game.h>
+
+1507980989 source:h:\pacman\include\coins_sc.h
+
+1509190513 source:h:\pacman\include\controls.h
+	<start_game.h>
+
+1509372594 source:h:\pacman\include\daemons.h
+
+1509191716 source:h:\pacman\include\endprint.h
+
+1509190589 source:h:\pacman\include\setup.h
+	<start_game.h>
+
+1509096706 source:h:\pacman\include\start_game.h
+	<endprint.h>
+	<coins_sc.h>
+	<daemons.h>
+	<properties.h>
+	<controls.h>
+
+1509193342 source:h:\pacman\include\start_menu.h
+	<string.h>
+
+1509372599 source:h:\pacman\src\daemons.cpp
+	<daemons.h>
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+
+1509372594 h:\pacman\include\daemons.h
+
+1509191715 source:h:\pacman\src\endprint.cpp
+	<endprint.h>
+	<conio.h>
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<stdio.h>
+	<fstream>
+	<start_menu.h>
+
+1509191716 h:\pacman\include\endprint.h
+
+1509359871 source:h:\pacman\src\setup.cpp
+	<setup.h>
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<start_game.h>
+	<properties.h>
+
+1509190589 h:\pacman\include\setup.h
+	<start_game.h>
+
+1508062202 source:h:\pacman\src\start_menu.cpp
+	<start_menu.h>
+	<graphics.h>
+	<windows.h>
+	<string.h>
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<start_game.h>
+	<locale>
+
+1509372609 source:h:\pacman\src\start_game.cpp
+	<start_game.h>
+	<iostream>
+	<graphics.h>
+	<setup.h>
+	<time.h>
+	<stdio.h>
+	<fstream>
+	<string.h>
+	<controls.h>
+
+1508057020 h:\pacman\include\properties.h
+	<time.h>
+
+1509356013 source:h:\pacman\src\properties.cpp
+	<properties.h>
+	<fstream>
+
+1508057020 source:h:\pacman\include\properties.h
+	<time.h>
+

@@ -1,4 +1,4 @@
-# Pacman-2K18
+# Pacman-2K17
 A School Project that I created while I was in 12th Grade.
 
 IF YOU CLONE THIS REPO, YOU NEED TO USE OLD GRAPHICS LIBRARY FOR C++.
